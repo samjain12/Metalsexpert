@@ -12,7 +12,7 @@ To get started with Metal Experts, follow these steps:
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/metal-experts.git
+git clone https://github.com/samjain12/metal-experts.git
 cd MetalExperts
 
 Install the Gaia Node by running the following command:
